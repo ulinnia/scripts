@@ -1,9 +1,9 @@
-git status
+git status  # 
 
-git diff
+git diff  # 
 
-git add --all
+git add --all  # 
 
-git commit -am 'message'
+git commit -am 'message'  # 
 
-git push
+git push  # 
